@@ -1,0 +1,12 @@
+Welcome to $title!
+
+This workshopper will show you how to make licensing your own code, as
+well as checking licenses for code you use, easy and pain-free.
+
+You'll need just a few commands to work your way through this workshopper:
+
+$title print ....... Show the current exercise again.
+$title verify ...... Check your solution to the current exercise.
+$title solution .... Show the solution to the current exercise.
+
+Go ahead and run `$title verify` to move on.

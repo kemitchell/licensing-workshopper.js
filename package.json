@@ -5,7 +5,9 @@
   "bin": "bin.js",
   "dependencies": {
     "adventure": "^2.11.0",
-    "adventure-verify": "^2.2.0"
+    "adventure-verify": "^2.2.0",
+    "json-parse-errback": "^2.0.0",
+    "stream-replace": "^1.0.0"
   },
   "license": "MIT",
   "repository": "kemitchell/licensing-workshopper.js"
