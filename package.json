@@ -1,0 +1,12 @@
+{
+  "name": "licensing-workshopper",
+  "version": "0.0.0",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
+  "bin": "bin.js",
+  "dependencies": {
+    "adventure": "^2.11.0",
+    "adventure-verify": "^2.2.0"
+  },
+  "license": "MIT",
+  "repository": "kemitchell/licensing-workshopper.js"
+}
