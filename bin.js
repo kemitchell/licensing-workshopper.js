@@ -59,13 +59,16 @@ workshop.add('Using The MIT License for Your Work', function() {
               .replace(/\n+/, '\n')
               .split('\n')
             var currentYear = new Date().getFullYear().toString()
+            // License identification.
             test.assert(
               /^MIT License$/.test(lines[0]),
               'First line says "MIT License"')
+            // Copyright notice.
             test.assert(
               new RegExp('^Copyright \\(c\\) ' + currentYear + ' .+$')
                 .test(lines[1]),
               'Second line is a copyright notice')
+            // License terms.
             test.equal(
               lines.slice(2).join('\n').replace(/\n+/g, '\n').trim(),
               mit.join('\n'),
