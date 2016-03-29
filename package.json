@@ -1,5 +1,6 @@
 {
   "name": "shark-repellent",
+  "description": "a workshopper for learning how to license open-source software on npm",
   "version": "1.0.0-prerelease-1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "bin": "bin.js",
