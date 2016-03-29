@@ -1,6 +1,6 @@
 {
   "name": "shark-repellent",
-  "version": "0.0.0",
+  "version": "1.0.0-prerelease-1",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "bin": "bin.js",
   "dependencies": {
