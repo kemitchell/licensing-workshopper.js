@@ -1,5 +1,5 @@
 {
-  "name": "licensing-workshopper",
+  "name": "shark-repellent",
   "version": "0.0.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "bin": "bin.js",
@@ -10,5 +10,5 @@
     "stream-replace": "^1.0.0"
   },
   "license": "MIT",
-  "repository": "kemitchell/licensing-workshopper.js"
+  "repository": "kemitchell/shark-repellent.js"
 }
