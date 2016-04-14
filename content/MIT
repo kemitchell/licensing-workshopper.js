@@ -15,4 +15,4 @@ To apply the MIT License to an npm package you wrote:
 Create a new npm package and apply The MIT License to it, or follow the
 steps above for a package you've already written.
 
-Then run `$title verify`.
+Then run `$title verify` in your package's directory.
