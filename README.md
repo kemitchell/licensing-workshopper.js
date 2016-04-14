@@ -29,6 +29,10 @@ To [Timothy Kempf], [Lydia Kats], and [Reza Akhavan], organizers of [NodeSchool 
 
 [NodeSchool San Francisco]: https://nodeschoo.io/sanfranscisco/
 
+To [Bryan English] for much good feedback, and proofreading.
+
+[Bryan English]: http://bryanenglish.com/
+
 To [James Halliday] for [adventure], [adventure-verify], and plentiful paronymous packaged power for the pedagogy.
 
 [James Halliday]: http://substack.net/
