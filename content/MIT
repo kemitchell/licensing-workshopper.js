@@ -1,18 +1,19 @@
-The MIT License is the most popular kind of Open Source license on npm.
-It gives folks very broad permission to use, change, and share software.
+The MIT License is the most popular kind of Open Source license
+on npm.  It gives folks very broad permission to use, change, and
+share software.
 
 To apply the MIT License to an npm package you wrote:
 
 1. Set `license` to the string `"MIT"` in `package.json`.
 
-   The string needs to be exact, so programs, not just people, can tell
-   the package is licensed on standard MIT terms.
+   The string needs to be exact, so programs, not just people, can
+   tell the package is licensed on standard MIT terms.
 
 2. Add a `LICENSE` file to your package. Add `MIT License` and a
    copyright notice top of the `LICENSE` file, then paste the MIT
    License terms below.
 
-Create a new npm package and apply The MIT License to it, or follow the
-steps above for a package you've already written.
+Create a new npm package and apply The MIT License to it, or follow
+the steps above for a package you've already written.
 
 Then run `$title verify` in your package's directory.
