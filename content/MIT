@@ -5,8 +5,8 @@ To apply the MIT License to an npm package you wrote:
 
 1. Set `license` to the string `"MIT"` in `package.json`.
 
-   The string needs to be exact, so programs, not just people, npm can
-   tell the package is licensed on standard MIT terms.
+   The string needs to be exact, so programs, not just people, can tell
+   the package is licensed on standard MIT terms.
 
 2. Add a `LICENSE` file to your package. Add `MIT License` and a
    copyright notice top of the `LICENSE` file, then paste the MIT
