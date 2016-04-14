@@ -1,0 +1,40 @@
+A copy of the MIT license, a copyright notice, and a little metadata
+are fine for small, hobby projects. But when more than one person
+contributes to a project, each contributor might have rights in their
+work. It's important for each person to license their contributions.
+
+If the original author licensed their work MIT, it's simplest for other
+contributors to license their work MIT, too. Many developers expect this
+when they send a patch to a project that already has an open-source
+license. But law courts may or may not respect that expectation, so
+it helps to create a record in the project showing that each author
+licenses their work under the same terms. It's hard to go back and get
+that clarification from contributors after the fact.
+
+It's easy to update an MIT-licensed npm package for multiple
+contributors.
+
+1. In the `LICENSE` file, change:
+
+       Copyright (c) Anna Developer
+
+   to:
+
+       Copyright (c) Anna Developer and contributors
+
+2. Create an `AUTHORS` file with lines like:
+
+       # The following contributors license their work under the terms
+       # in the LICENSE file.
+       Anna Developer <anna@example.com> (https://example.com)
+
+   npm will automatically add everyone listed in an `AUTHORS` file to
+   its `contributors` metadata for your package when you publish.
+
+3. When a new contributor sends a pull request to your project, ask them
+   to add their name to the `AUTHORS` file and license their
+   contribution MIT.
+
+Follow steps 1 and 2 for an MIT-licensed package.
+
+Then run `$title verify` in the package's directory.
